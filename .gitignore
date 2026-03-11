@@ -1,0 +1,67 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*.ipynb~
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+env.old/
+
+# --- Data & Results ---
+data/
+datasets/
+
+*.tsv
+*.json
+*.xlsx
+*.xls
+*.zip
+*.tar
+*.gz
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.h5
+*.npy
+*.npz
+
+# --- Logs & Outputs ---
+logs/
+*.log
+*.out
+*.err
+
+# --- Model Files ---
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.pb
+*.tflite
+
+# --- IDE & System Files ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Results ---
+results/
+*.pdf
+*.html
+*.md~
